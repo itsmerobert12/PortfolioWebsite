@@ -19,8 +19,3 @@
   --loader-color: #0CBFAE
 }
 
-canvas {
-  position: fixed;
-  top: 0;
-  left: 0;
-}
